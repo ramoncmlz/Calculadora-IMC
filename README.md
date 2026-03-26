@@ -1,3 +1,5 @@
+🇺🇸 English | 🇧🇷 [Português](README.pt-Br.md)
+
 # 📱 BMI Calculator (Android)
 
 A simple Android application for calculating BMI (Body Mass Index), developed in Kotlin. The app allows users to enter their weight, adjust their height using a slider, and quickly get the result.
