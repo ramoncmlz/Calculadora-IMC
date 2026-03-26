@@ -1,4 +1,4 @@
-🇺🇸 English | 🇧🇷 [Português](README.pt-Br.md)
+🇺🇸 English | 🇧🇷 [Portuguese](README.pt-Br.md)
 
 # 📱 BMI Calculator (Android)
 
