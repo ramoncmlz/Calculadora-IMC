@@ -1,3 +1,5 @@
+🇧🇷 Português | 🇺🇸 [Inglês](README.md)
+
 # 📱 Calculadora de IMC (Android)
 
 Aplicativo Android simples para cálculo de IMC (Índice de Massa Corporal), desenvolvido em Kotlin. O app permite inserir o peso, ajustar a altura com um controle deslizante e obter o resultado de forma rápida e intuitiva.
